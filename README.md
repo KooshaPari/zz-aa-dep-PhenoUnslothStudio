@@ -1,3 +1,9 @@
+# zz-aa-dep
+
+Owned hard fork dependency for a project/product. zz prefix for readability/ordering. Code preserved.
+
+---
+
 <h1 align="center" style="margin:0;">
   <a href="https://unsloth.ai/docs"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png">
